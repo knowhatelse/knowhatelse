@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Mood Melody](https://github.com/knowhatelse/mood-melody)
 
-- 🔭 I’m currently working on too [eDnenvik](https://dev.azure.com/fitba-p2249/seminarski_rad/_git/webapp)
+- 🔭 I’m currently working on [eDnenvik](https://dev.azure.com/fitba-p2249/seminarski_rad/_git/webapp) too
 
 - 🔭 🌱 I’m currently working and learning on [Dating App (Udemy course)](https://github.com/knowhatelse/udemy-course-web-app)
 
-- 🌱 I’m currently learning **.NET, Angular, and a little bit of React, Flusk**
+- 🌱 I’m currently learning **.NET, Angular, and a little bit of React and Flusk**
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/knowhatelse?tab=repositories)
 
