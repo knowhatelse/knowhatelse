@@ -14,8 +14,8 @@
 
  <br>
   
- 🌱 I’m currently learning **.NET, Angular, and a little bit of React and Flusk, and basically everything I need in the moment** 😅
- 🌱 And I'm looking foward to learn Fullter and Docker 👀
+ 🌱 I’m currently learning **.NET, Angular, and a little bit of React and Flusk, and basically everything I need in the moment** 😅 <br>
+ 🌱 And I'm looking foward to learn Fullter and Docker 👀 <br>
   <br>
 
  💬 Ask me about **anything you thing I might help you :) :D**
