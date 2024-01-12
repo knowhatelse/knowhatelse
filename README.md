@@ -1,4 +1,4 @@
-<img align="center" alt="Code generation" width="1080" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFsaTFjZ2I2bGRnd2h6cXN4cTBodGZ1bGVteXB0YTB6eWMxcnhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="center" alt="Code generation" width="1080" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFsaTFjZ2I2bGRnd2h6cXN4cTBodGZ1bGVteXB0YTB6eWMxcnhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 <h1 align="center">Hi 👋, I'm Kenan Kajtazović</h1>
 <h3 align="center">Currently, I'm a software engineering student at FIT UNMO</h3>
 
