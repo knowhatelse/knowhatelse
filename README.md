@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kenan Kajtazović</h1>
 <h3 align="center">Currently, I'm a software engineering student at FIT UNMO</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knowhatelse" alt="knowhatelse" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knowhatelse" alt="knowhatelse" /></a> </p> -->
 
 - 🔭 I’m currently working on [Mood Melody](https://github.com/knowhatelse/mood-melody)
 
