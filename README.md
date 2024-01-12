@@ -7,23 +7,25 @@
 - 🔭 I’m currently working on [Mood Melody](https://github.com/knowhatelse/mood-melody)
 
 - 🔭 I’m currently working on [eDnenvik](https://dev.azure.com/fitba-p2249/seminarski_rad/_git/webapp) too
-
+  
 - 🔭 🌱 I’m currently working and learning on [Dating App (Udemy course)](https://github.com/knowhatelse/udemy-course-web-app)
-
+  
 - 🌱 I’m currently learning **.NET, Angular, and a little bit of React and Flusk**
 
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/knowhatelse?tab=repositories)
+
+- 👨‍💻 To see my projects click [here](https://github.com/knowhatelse?tab=repositories)
 
 - 💬 Ask me about **anything you thing I might help you :)**
 
 - 📫 How to reach me **kenan.kajtazovic.01@gmail.com**
+
 
 - ⚡ Fun fact **I'm a guitar player, and I play in some session bands in Mostar :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kenan-kajtazović-84b236232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenan-kajtazović-84b236232" height="30" width="40" /></a>
-<a href="https://kaggle.com/kenankajtazovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kenankajtazovi" height="30" width="40" /></a>
+<!--<a href="https://kaggle.com/kenankajtazovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kenankajtazovi" height="30" width="40" /></a> -->
 <a href="https://fb.com/kenan.kajtazovic.1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenan.kajtazovic.1337" height="30" width="40" /></a>
 <a href="https://instagram.com/knowhatelse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knowhatelse" height="30" width="40" /></a>
 </p>
