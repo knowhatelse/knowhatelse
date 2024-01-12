@@ -18,7 +18,7 @@
  🌱 And I'm looking foward to learn **Flutter** and **Docker** 👀 (P.S. And **Express.js** too!!)<br>
   <br>
 
- 💬 Ask me about **anything you thing I might help you :) :D**
+ 💬 Ask me about anything you thing I might help you **:) :D**
 
  📫 You can reach out to me here: **kenan.kajtazovic.01@gmail.com**
 
