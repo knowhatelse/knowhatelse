@@ -6,17 +6,15 @@
 
   <br>
 
- 🔭 I’m currently working on [Mood Melody](https://github.com/knowhatelse/mood-melody) 😀
-
- 🔭 And  I’m currently working on [eDnenvik](https://dev.azure.com/fitba-p2249/seminarski_rad/_git/webapp) too 😮‍💨
+ 🔭 I’m currently working on to many projects 😮‍💨
   
  😴 Besides that, occasionally I’m learning from a Udemy course building this project  [Dating App (Udemy course)](https://github.com/knowhatelse/udemy-course-web-app)
 
  <br>
   
- 🌱 I’m currently learning **.NET**, **Angular**, and a little bit of **React** and **Flusk**, and basically everything I need in the moment 😅 <br>
- 🌱 And I'm looking foward to learn **Flutter** and **Docker** 👀 (P.S. And **Express.js** too!!)<br>
-  <br>
+ 🌱 Currently, I'm learning any technology, framework, or library that is necessary for the projects I'm working on,   <br>
+ as well as studying what I'm doing at university 😅 <br>
+<br>
 
  💬 Ask me about anything you thing I might help you **:) :D**
 
